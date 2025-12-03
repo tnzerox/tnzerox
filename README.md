@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Developer | Team Lead | Product Engineer | PHP (Laravel) | JavaScript | Python | IoT | SaaS Architect**
 
-I’m a full-stack engineer with **9+ years of experience** building **complete, scalable SaaS applications** from architecture design to production deployment. I specialize in **system architecture, database design, product engineering, team leadership**, and delivering end-to-end software solutions. I have experience leading teams, mentoring developers, and ensuring product quality across all stages of development.
+I’m a full-stack engineer with **8+ years of experience** building **complete, scalable SaaS applications** from architecture design to production deployment. I specialize in **system architecture, database design, product engineering, team leadership**, and delivering end-to-end software solutions. I have experience leading teams, mentoring developers, and ensuring product quality across all stages of development.
 
 ---
 
@@ -10,20 +10,20 @@ I’m a full-stack engineer with **9+ years of experience** building **complete,
 
 **Backend**
 - PHP, Laravel, Symfony  
-- Python, FastAPI  
+- Python, FastAPI, Flask
+- nodejs, expressjs
 - REST API, GraphQL, WebSockets  
 - Microservices & Scalable System Architecture  
-- Database design & optimization (PostgreSQL, MySQL, TimescaleDB)
+- Database design & optimization (PostgreSQL, MySQL, TimescaleDB, DynamoDB, MongoDB)
 
 **Frontend**
 - React, Next.js  
 - Vue, Inertia.js  
 - TailwindCSS, TypeScript  
-- Modern UI/UX design for SaaS products  
 
 **DevOps & Tools**
-- Docker, Kubernetes, CI/CD pipelines  
-- Redis, MQTT, OPC UA, Modbus (IoT)  
+- Docker, CI/CD pipelines  
+- Redis, MQTT, LoRaWan, Modbus (IoT)  
 - AWS, Linux Server Management  
 - Monitoring, logging, and real-time data pipelines  
 
@@ -31,8 +31,6 @@ I’m a full-stack engineer with **9+ years of experience** building **complete,
 
 ## 🚀 What I Build
 - **Complete SaaS applications** (multi-tenant, high-traffic)  
-- **Multi-theme eCommerce platforms** that can sell anything  
-- **Student Management Record Systems**  
 - IoT platforms with **real-time device integrations** (smart meters, sensors, Modbus/MQTT)  
 - **Energy monitoring & analytics dashboards**  
 - Real-time **data ingestion and processing pipelines**  
@@ -64,5 +62,3 @@ I’m a full-stack engineer with **9+ years of experience** building **complete,
 - **LinkedIn:** [https://www.linkedin.com/in/tanuj-adhikari/](https://www.linkedin.com/in/tanuj-adhikari/)  
 
 ---
-
-⭐ _If you like my work, feel free to star repositories or reach out for collaboration!_
